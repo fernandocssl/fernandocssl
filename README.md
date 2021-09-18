@@ -1,4 +1,4 @@
-### 😄 Welcome!!
+### 🧗‍♂️ Welcome!
 
  <div>
   <a href="https://github.com/fernandocssl">
@@ -6,12 +6,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocssl&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
+ ##
+ 
+ ### 🧠 Currently studying:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  spinning-cat.gif
-  <img align="right" alt="spinningcat" src="https://media0.giphy.com/media/LgR0AnXJBrO4E/giphy.gif">
+  <img align="center" alt="Badge-HTML" src="/src/HTML5-badge.png">
+  <img align="center" alt="Badge-CSS" src="/src/CSS3-badge.png">
+  <img align="center" alt="Badge-Js" src="/src/Javascript-badge.png">
+  <img align="center" alt="Badge-React" src="/src/react-badge.png">
+  <img width="130" align="right" alt="spinningcat" border-radius="50%" src="spinning-cat.gif">
 </div>
+
+ ##
+ 
+ ### 📌 Keep in touch
+ <div>
+  <a href="https://www.linkedin.com/in/fernando-cesar-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fernando_cesar.2@hotmail.com"><img src="/src/outlook-badge.png" target="_blank"></a>
+ </div>
