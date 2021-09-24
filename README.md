@@ -18,6 +18,7 @@
   <img align="center" alt="Badge-CSS" src="/src/CSS3-badge.png">
   <img align="center" alt="Badge-Js" src="/src/Javascript-badge.png">
   <img align="center" alt="Badge-React" src="/src/react-badge.png">
+  <img align="center" alt="Badge-Markdown src="/src/markdown-badge.png">
   <img width="130" align="right" alt="spinningcat" src="/src/spinning-cat.gif">
 </div>
 
